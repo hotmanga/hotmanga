@@ -10,4 +10,4 @@
 
 這裡是我們的[官網](https://www.manga2020.com/)，你也可以去我們的 hotmangaSite 項目查看各種資源。
 
-小站APP最新版本 2.1.1 (Android)
+小站APP最新版本 2.1.3 (Android)
