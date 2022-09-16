@@ -10,4 +10,4 @@
 
 這裡是我們的 [官網](https://www.relamanhua.com/)，你也可以去我們的 hotmangaSite 項目查看各種資源。
 
-小站APP最新版本 **2.1.6 (Android)**
+小站APP最新版本 **2.1.7 (Android)**
